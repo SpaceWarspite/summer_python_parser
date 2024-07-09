@@ -59,5 +59,3 @@ ax1.barh(labels, sizes)
 
 plt.savefig('barh.png')
 plt.show()
-
-#йух
